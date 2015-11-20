@@ -1,0 +1,16 @@
+{
+  "title": "Enable Screen Capturing in Firefox",
+  "name": "ss-enable-screen-capturing",
+  "id": "{3ef085b0-fe60-11df-8cff-0800200c9aaa}",
+  "version": "1.0.1",
+  "description": "ss firefox page",
+  "main": "index.js",
+  "author": "zerg0088 <zerg0088@naver.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions": {
+    "unsafe-content-script": true
+  }
+}
